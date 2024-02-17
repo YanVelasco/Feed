@@ -1,4 +1,14 @@
-.header{
-    background-color: #333;
-    height: 100px;
+.header {
+  background-color: #333;
+  display: flex;
+  padding: 1.25rem 0rem 1.20219rem 0rem;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 1.6rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 2.55856rem; /* 2.55856rem */
 }
